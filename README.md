@@ -119,8 +119,8 @@ Benefits of Problem Definition:
 
  11. Main Features or Functionalities
 - User-Friendly Interface: Emphasize ease of use and accessibility.
-- Core Features: List key functionalities that differentiate your software, e.g., automation, real-time analytics
-- Scalability: Mention the ability to grow with user needs.
+- Core Features: List key functionalities that differentiate your softwarei.e , automation, real-time analytics
+- Scalability : The mention of the  ability to grow with user needs.
 
 
   12. Available Market Data
